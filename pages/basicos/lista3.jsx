@@ -11,7 +11,8 @@ export default function lista(){
         <>
             <div>
                 {gerarlista(20)}
-            </div><div>
+            </div>
+            <div>
                 {gerarlista(10)}
             </div>
         </>

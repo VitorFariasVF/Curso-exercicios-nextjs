@@ -1,4 +1,4 @@
-export default function lista1() {
+export default function lista() {
     var tela = c(20)
     return(
         <>{tela}</>

@@ -8,10 +8,13 @@ function gerarlista(final = 10) {
 }
 export default function lista(){
     return (
-        <><div>
-            {gerarlista(20)}
-        </div><div>
+        <>
+            <div>
+                {gerarlista(20)}
+            </div>
+            <div>
                 {gerarlista(10)}
-            </div></>
+            </div>
+        </>
     )
 }
